@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/TBernis-code/bernis-exercises/issues"
   },
-  "homepage": "https://github.com/TBernis-code/bernis-exercises#readme"
+  "homepage": "https://github.com/TBernis-code/bernis-exercises#readme",
+  "type": "module"
 }
